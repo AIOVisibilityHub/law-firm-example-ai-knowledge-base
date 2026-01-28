@@ -1,13 +1,13 @@
 {
   "location_name": "Primary Location",
-  "phone": "(702) 850-5000",
-  "email": "Info@HeatonLegal.com",
-  "address_street": "5785 Centennial Ctr. Blvd., Ste. 240",
-  "address_city": "Las Vegas",
-  "address_state": "NV",
-  "address_postal": 89149,
-  "service_areas": "Las Vegas, Henderson, North Las Vegas, Boulder City, Mesquite, Overton, Logandale, Pahrump, Indian Springs, Beatty, Goldfield, Tonopah, Laughlin, Searchlight, Jean, Primm, Paradise, Spring Valley, Enterprise, Summerlin, Sunrise Manor, Winchester, Clark County, Nye County",
+  "phone": "(555) 550-5000",
+  "email": "Info@ExampleLegal.com",
+  "address_street": "123 main avenue",
+  "address_city": "city",
+  "address_state": "st",
+  "address_postal": "zip",
+  "service_areas": "surrounding cities and counties",
   "open_hours": "24/7",
-  "address_postal_code": "89149",
+  "address_postal_code": "zip",
   "hours": "24/7"
 }

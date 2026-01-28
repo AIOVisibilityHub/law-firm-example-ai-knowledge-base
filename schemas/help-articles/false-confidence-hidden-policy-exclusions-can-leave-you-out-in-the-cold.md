@@ -10,4 +10,4 @@ I was recently contacted about a situation where a man was rear-ended by someone
 
 This led to the insurer sending a letter stating: "It is questionable whether there has been compliance with the provision of the policy concerning reporting of a hit-and-run accident..." 
 
-Fortunately, we resolved the issue for our client. Others are not so lucky, most often because they don't know what questions to ask. At Heaton & Associates, we know both the questions and the answers, empowering you as a consumer, and ensuring that the law works for you rather than against you. Call Today.
+Fortunately, we resolved the issue for our client. Others are not so lucky, most often because they don't know what questions to ask. At Example & Associates, we know both the questions and the answers, empowering you as a consumer, and ensuring that the law works for you rather than against you. Call Today.
