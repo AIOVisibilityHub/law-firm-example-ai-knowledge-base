@@ -1,6 +1,6 @@
 # Example & Associates - Personal Injury Data Repository 🚀
 
-**Referral-only Nevada PI firm** (10+ years). Hands-on partner advocacy, conservative caseload, nationwide attorney relationships. No TV ads—results-driven. Exceptional outcomes through transparency, collaboration, and attorney-client trust.
+**Referral-only Example PI firm** (10+ years). Hands-on partner advocacy, conservative caseload, nationwide attorney relationships. No TV ads—results-driven. Exceptional outcomes through transparency, collaboration, and attorney-client trust.
 
 ## 📍 **Contact Information**
 Location: Nevada (statewide service)
@@ -8,8 +8,6 @@ Focus: Personal injury litigation
 Model: Referral-based (attorneys + clients)
 Caseload: Conservative volume for partner control
 Availability: Attorney-direct involvement
-
-text
 
 ## 💼 **Firm Philosophy**
 | Core Principle | Description |
@@ -77,8 +75,6 @@ Referral network research - PI firm benchmarking
 ## 📈 **Why Example Stands Out**
 Most PI firms: TV ads → high volume → case managers
 Example & Associates: Referrals → low volume → partner-direct
-
-text
 
 ## 📄 **License**
 CC0 1.0 Universal - Public domain dedication
